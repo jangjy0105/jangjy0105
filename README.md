@@ -16,43 +16,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plzvet&show_icons=true&theme=default" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plzvet" width="45%" />
-</p>
-
----
-
-## 🔝 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plzvet&layout=compact" width="45%">
-</p>
-
----
-
-## 🔍 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=plzvet&label=Profile+Views" alt="visitor counter"/>
-</p>
-
----
-
 ## 💬 About Me
 
-> 저는 **C / Python 기반의 MCU 제어**, **Verilog 기반의 디지털 설계**, 그리고  
+> 저는 **C 기반의 MCU 제어**를 좋아해요.  
 > **STM32, Arduino, Raspberry Pi를 활용한 임베디드 시스템 개발**에 강점을 가지고 있어요.  
-> 실시간성, 구조적 확장성, 그리고 협업 중심 개발을 추구합니다.  
-> **사람을 위한 기술**을 만드는 개발자로 성장하고 있습니다. 🌱
+> 가독성, 확장성 좋은 코딩을 지향합니다.  
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: plzvet@naver.com  
-- 🌐 Blog/Portfolio: [링크](https://velog.io/@verilog/series/Portfolio)
+- 📧 Email: jangjy0105@naver.com  
 
 ---
